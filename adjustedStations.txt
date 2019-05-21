@@ -1,0 +1,365 @@
+Jackson Avenue Borough: BRONX  | 2, 5 trains
+Saint Lawrence Avenue Borough: BRONX  | 6 train
+Grand Avenue-Newtown Borough: QUEENS  | E, M trains
+96 Street Borough: MANHATTAN  | 1, 2, 3, 4, 6, 6 express, B, C, Q trains
+65 Street Borough: QUEENS  | E, M, R trains
+Coney Island - Stillwell Borough: BROOKLYN  | N train
+Utica Avenue Borough: BROOKLYN  | C train
+Tremont Avenue Borough: BRONX  | B, D trains
+5 Avenue-Bryant Park Borough: MANHATTAN  | 7 Express train
+163 Street-Amsterdam Avenue Borough: MANHATTAN  | C train
+3 Avenue-149 Street Borough: BRONX  | 2, 5 trains
+Broad Street Borough: MANHATTAN  | J, Z trains
+67 Avenue Borough: QUEENS  | E, M, R trains
+23 Street Borough: MANHATTAN  | 1, 2, 4, 6, 6 express, C, E, F, M, N, Q, R, W trains
+Myrtle- Willoughby Avenues Borough: BROOKLYN  | G train
+Fort Hamilton Borough: BROOKLYN  | N train
+Grand Army Plaza Borough: BROOKLYN  | 2, 3, 4 trains
+Wakefield-241 Street Borough: BRONX  | 2 train
+Carroll Street Borough: BROOKLYN  | F, G trains
+Jackson Heights- Roosevelt Avenue Borough: QUEENS  | E, F, M, R trains
+World Trade Center Borough: MANHATTAN  | E train
+59 Street Borough: BROOKLYN  | N, R trains
+52 Street Borough: QUEENS  | 7 train
+Bay Parkway Borough: BROOKLYN  | D, F, N trains
+Junction Boulevard Borough: QUEENS  | 7, 7 express trains
+79 Street Borough: BROOKLYN  | D train
+Port Authority Bus Terminal Borough: MANHATTAN  | E train
+176 Street Borough: BRONX  | 4 train
+86 Street Borough: BROOKLYN  | N, R trains
+50 Street Borough: MANHATTAN  | 1, 2, C, E trains
+Prospect Avenue Borough: BROOKLYN  | D, N, R trains
+63 Dr-Rego Park Borough: QUEENS  | M train
+Bushwick Avenue- Aberdeen Street Borough: BROOKLYN  | L train
+East 149 Street Borough: BRONX  | 6 train
+Elder Avenue Borough: BRONX  | 6 train
+New Lots Avenue Borough: BROOKLYN  | 3, 4, L trains
+Briarwood Borough: QUEENS  | E, F trains
+Livonia Avenue Borough: BROOKLYN  | L train
+68 Street-Hunter College Borough: MANHATTAN  | 4, 6, 6 express trains
+Cypress Hills Borough: BROOKLYN  | J train
+Borough Hall Borough: BROOKLYN  | 2, 3, 5 trains
+DeKalb Avenue Borough: BROOKLYN  | B, D, L, N, R trains
+Atlantic Avenue-Barclays Center Borough: BROOKLYN  | D train
+Parsons Boulevard Borough: QUEENS  | F train
+Woodhaven Boulevard Borough: QUEENS  | E, J, M, R, Z trains
+Wall Street Borough: BROOKLYN  | 4, 5 trains
+170 Street Borough: BRONX  | 4, B, D trains
+West Farms Square- East Tremont Avenue Borough: BRONX  | 2 train
+39 Avenue Borough: QUEENS  | N, W trains
+Cypress Avenue Borough: BRONX  | 6 train
+Halsey Street Borough: BROOKLYN  | J, L trains
+Gun Hill Road Borough: BRONX  | 2 train
+34 St-Herald Square Borough: MANHATTAN  | B train
+Whitlock Avenue Borough: BRONX  | 6 train
+Bedford Park Boulevard Borough: BRONX  | B, D trains
+York Street Borough: BROOKLYN  | F train
+5 Avenue - 59 Street Borough: MANHATTAN  | W train
+Morgan Avenue Borough: BROOKLYN  | L train
+Cathedral Parkway (110 Street) Borough: MANHATTAN  | 1, B, C trains
+Longwood Avenue Borough: BRONX  | 6 train
+219 Street Borough: BRONX  | 2 train
+Beverly Road Borough: BROOKLYN  | 2, 5 trains
+Union Street Borough: BROOKLYN  | D, N, R trains
+Intervale Avenue Borough: BRONX  | 2, 5 trains
+Hoyt Street Borough: BROOKLYN  | 2 train
+Bay 50 Street Borough: BROOKLYN  | D train
+135 Street Borough: MANHATTAN  | 2, 3, B, C trains
+Fulton Street Borough: BROOKLYN  | 4, 5, G trains
+Beach 105 Street Borough: QUEENS  | S train
+Jamaica Center- Parsons - Archer Borough: QUEENS  | J, Z trains
+82 Street-Jackson Heights Borough: QUEENS  | 7 train
+34 Street-Penn Station Borough: MANHATTAN  | 1, 2, 3, C, E trains
+77 Street Borough: MANHATTAN  | 4, 6, 6 express trains
+42 Street Borough: MANHATTAN  | E train
+Pelham Parkway Borough: BRONX  | 2 train
+Harlem-148 Street Borough: MANHATTAN  | 3 train
+49 Street Borough: MANHATTAN  | N, Q, R, W trains
+Freeman Street Borough: BRONX  | 2, 5 trains
+53 Street Borough: BROOKLYN  | N, R trains
+90 Street-Elmhurst Avenue Borough: QUEENS  | 7 train
+Beverley Road Borough: BROOKLYN  | Q train
+Bowery Borough: MANHATTAN  | J, Z trains
+181 Street Borough: MANHATTAN  | 1 train
+81 Street- Museum of Natural History Borough: MANHATTAN  | B, C trains
+Grand Street Borough: MANHATTAN  | B, D trains
+Prospect Park Borough: BROOKLYN  | B, Q trains
+25 Street Borough: BROOKLYN  | D, N, R trains
+West 4 Street- Washington Square Borough: MANHATTAN  | B, D trains
+183 Street Borough: BRONX  | 4 train
+Burke Avenue Borough: BRONX  | 2 train
+President Street Borough: BROOKLYN  | 2, 5 trains
+Avenue X Borough: BROOKLYN  | F train
+Parkside Avenue Borough: BROOKLYN  | Q train
+Morrison Avenue-Soundview Borough: BRONX  | 6 train
+42 Street- Port Authority Bus Terminal Borough: MANHATTAN  | C train
+Avenue U Borough: BROOKLYN  | F, N, Q trains
+Beach 98 Street Borough: Rockaway Park Branch - Rush Hour Service Only Peak Direction Only  | A train
+66 Street-Lincoln Center Borough: MANHATTAN  | 1, 2 trains
+Burnside Avenue Borough: BRONX  | 4 train
+Classon Avenue Borough: BROOKLYN  | G train
+Court Sq Borough: QUEENS  | 7, 7 express, G trains
+Cleveland Street Borough: BROOKLYN  | J train
+Westchester Square- East Tremont Avenue Borough: BRONX  | 6, 6 express trains
+30 Avenue Borough: QUEENS  | N, W trains
+Greenpoint Avenue Borough: BROOKLYN  | G train
+Gates Avenue Borough: BROOKLYN  | J, Z trains
+Forest Avenue Borough: BROOKLYN  | M train
+Court Street Borough: BROOKLYN  | N train
+72 Street Borough: MANHATTAN  | 1, 2, 3, B, C, Q trains
+Hunts Point Avenue Borough: BRONX  | 6, 6 express trains
+21 Street Borough: QUEENS  | G train
+West Farms Square- E Tremont Avenue Borough: BRONX  | 5 train
+47-50 Streets-Rockefeller Center Borough: MANHATTAN  | D, F, M trains
+Beach 105 Street Borough: Rockaway Park Branch - Rush Hour Service Only Peak Direction Only  | A train
+Fordham Road Borough: BRONX  | 4, B, D trains
+238 Street Borough: BRONX  | 1 train
+Marcy Avenue Borough: BROOKLYN  | J, M, Z trains
+7 Avenue Borough: MANHATTAN  | B, D, E trains
+Cortelyou Road Borough: BROOKLYN  | Q train
+Crown Heights-Utica Avenue Borough: BROOKLYN  | 3, 4 trains
+Beach 90 Street Borough: Rockaway Park Branch - Rush Hour Service Only Peak Direction Only  | A train
+Bergen Street Borough: BROOKLYN  | 2, 3, 4, F, G trains
+Avenue I Borough: BROOKLYN  | F train
+Avenue H Borough: BROOKLYN  | Q train
+Avenue J Borough: BROOKLYN  | Q train
+Kings Highway Borough: BROOKLYN  | B, F, N, Q trains
+Christopher Street- Sheridan Sq Borough: MANHATTAN  | 2 train
+Nereid Avenue Borough: BRONX  | 2 train
+Vernon Boulevard- Jackson Avenue Borough: QUEENS  | 7, 7 express trains
+Avenue P Borough: BROOKLYN  | F train
+Metropolitan Avenue Borough: BROOKLYN  | G train
+34 Street-Herald Square Borough: MANHATTAN  | D, F, M, N, Q, R, W trains
+Jamaica-Van Wyck Borough: QUEENS  | E train
+Avenue M Borough: BROOKLYN  | Q train
+Liberty Avenue Borough: BROOKLYN  | C train
+7 Avenue Borough: BROOKLYN  | B, F, G, Q trains
+Avenue N Borough: BROOKLYN  | F train
+51 Street Borough: MANHATTAN  | 4, 6, 6 express trains
+Neptune Avenue Borough: BROOKLYN  | F train
+6 Avenue Borough: MANHATTAN  | L train
+Franklin Street Borough: MANHATTAN  | 1, 2 trains
+Van Cortlandt Park-242 Street Borough: BRONX  | 1 train
+Pennsylvania Avenue Borough: BROOKLYN  | 3, 4 trains
+City Hall Borough: MANHATTAN  | N, R, W trains
+18 Street Borough: MANHATTAN  | 1, 2 trains
+Hoyt Street-Fulton Mall Borough: BROOKLYN  | 3 train
+9 Avenue Borough: BROOKLYN  | D train
+Mt Eden Avenue Borough: BRONX  | 4 train
+59 Street-Columbus Circle Borough: MANHATTAN  | 1, 2, B, C, D trains
+85 Street-Forest Parkway Borough: QUEENS  | J train
+103 Street-Corona Plaza Borough: QUEENS  | 7 train
+145 Street Borough: MANHATTAN  | 1, 3, B, C, D trains
+75 Avenue Borough: QUEENS  | E, F trains
+Northern Boulevard Borough: QUEENS  | E, M, R trains
+Ralph Avenue Borough: BROOKLYN  | C train
+Montrose Avenue Borough: BROOKLYN  | L train
+Van Siclen Avenue Borough: BROOKLYN  | 3, 4, C, J, Z trains
+46 Street Borough: QUEENS  | 7, E, M, R trains
+5 Avenue Borough: MANHATTAN  | 7, M, N, R trains
+Shepherd Avenue Borough: BROOKLYN  | C train
+Jamaica-179 Street Borough: QUEENS  | F train
+Prince Street Borough: MANHATTAN  | N, Q, R, W trains
+8 Avenue Borough: BROOKLYN  | N train
+116 Street Borough: MANHATTAN  | 2, 3, 4, 6, 6 express, B, C trains
+Kingsbridge Road Borough: BRONX  | 4, B, D trains
+East 143 Street - Saint Mary's Street Borough: BRONX  | 6 train
+Hoyt Street-Schermerhorn Street Borough: BROOKLYN  | C, G trains
+69 Street Borough: QUEENS  | 7 train
+Church Avenue Borough: BROOKLYN  | 2, 5, B, F, G, Q trains
+14 Street-Union Square Borough: MANHATTAN  | 4, 5, 6, 6 express, L, N, Q, R, W trains
+Myrtle-Wyckoff Avenues Borough: BROOKLYN  | L train
+Beach 98 Street Borough: QUEENS  | S train
+9 Street Borough: BROOKLYN  | D train
+21 Street-Queensbridge Borough: QUEENS  | F train
+Sheepshead Bay Borough: BROOKLYN  | B, Q trains
+Christopher Street-Sheridan Square Borough: MANHATTAN  | 1 train
+Grand Avenue - Newton Borough: QUEENS  | R train
+Rockaway Park - Beach 116 Street Borough: Rockaway Park Branch - Rush Hour Service Only Peak Direction Only  | A train
+161 Street- Yankee Stadium Borough: BRONX  | 4, B, D trains
+Brighton Beach Borough: BROOKLYN  | B, Q trains
+Broad Channel Borough: QUEENS  | S train
+50 Street Borough: BROOKLYN  | D train
+45 Street Borough: BROOKLYN  | N, R trains
+Bay Ridge-95 Street Borough: BROOKLYN  | R train
+Wall Street Borough: MANHATTAN  | 2, 3 trains
+Kingston-Throop Avenues Borough: BROOKLYN  | C train
+104 Street Borough: QUEENS  | J, Z trains
+86 Street Borough: MANHATTAN  | 1, 2, 4, 5, 6, 6 express, B, C, Q trains
+Parkchester Borough: BRONX  | 6, 6 express trains
+Whitehall Street Borough: MANHATTAN  | W train
+42 Street-Times Square Borough: MANHATTAN  | W train
+75 Street Borough: QUEENS  | Z train
+Lexington Av - 63 Street Borough: MANHATTAN  | F train
+215 Street Borough: MANHATTAN  | 1 train
+42 St-Bryant Park Borough: MANHATTAN  | B train
+157 Street Borough: MANHATTAN  | 1 train
+Nevins Street Borough: BROOKLYN  | 2, 3, 4, 5 trains
+33 Street Borough: MANHATTAN  | 4, 6, 6 express trains
+53 Street Borough: MANHATTAN  | E, M trains
+Saratoga Avenue Borough: BROOKLYN  | 3, 4 trains
+116 Street- Columbia University Borough: MANHATTAN  | 1 train
+Clark Street Borough: BROOKLYN  | 2, 3 trains
+36 Street Borough: BROOKLYN  | D, N, R trains
+8 Street-New York University Borough: MANHATTAN  | N, Q, R, W trains
+4 Avenue - 9 Street Borough: BROOKLYN  | N, R trains
+Sutphin Boulevard - Archer Avenue -JFK Airport Borough: QUEENS  | J, Z trains
+8 Avenue Borough: MANHATTAN  | L train
+Newkirk Plaza Borough: BROOKLYN  | B, Q trains
+Chauncey Street Borough: BROOKLYN  | J train
+Norwood Avenue Borough: BROOKLYN  | J, Z trains
+Jefferson Street Borough: BROOKLYN  | L train
+Jamaica Center Borough: QUEENS  | E train
+East Broadway Borough: MANHATTAN  | F train
+West 4 Street Borough: MANHATTAN  | C, E, F, M trains
+Brook Avenue Borough: BRONX  | 6 train
+Delancey Street Borough: MANHATTAN  | F train
+231 Street Borough: BRONX  | 1 train
+Court Sq-23 St Borough: QUEENS  | E, M trains
+71 Street Borough: BROOKLYN  | D train
+Beach 90 Street Borough: QUEENS  | S train
+15 Street-Prospect Park Borough: BROOKLYN  | F, G trains
+Neck Road Borough: BROOKLYN  | Q train
+Astoria-Ditmars Boulevard Borough: QUEENS  | N, W trains
+74 Street-Broadway Borough: QUEENS  | 7 train
+20 Avenue Borough: BROOKLYN  | D, N trains
+Astoria Boulevard Borough: QUEENS  | N, W trains
+Broadway Borough: BROOKLYN  | G train
+137 Street-City College Borough: MANHATTAN  | 1 train
+191 Street Borough: MANHATTAN  | 1 train
+Sutter Avenue-Rutland Road Borough: BROOKLYN  | 3, 4 trains
+Mosholu Parkway Borough: BRONX  | 4 train
+Cortlandt Street Borough: MANHATTAN  | R, W trains
+Buhre Avenue Borough: BRONX  | 6, 6 express trains
+111 Street Borough: QUEENS  | 7, J trains
+New Utrecht Avenue Borough: BROOKLYN  | N train
+79 Street Borough: MANHATTAN  | 1, 2 trains
+Grand Street Borough: BROOKLYN  | L train
+Chambers Street Borough: MANHATTAN  | 1, 2, 3, C, J, Z trains
+Bedford-Nostrand Avenues Borough: BROOKLYN  | G train
+Spring Street Borough: MANHATTAN  | 4, 6, 6 express, C, E trains
+18 Avenue Borough: BROOKLYN  | D, F, N trains
+Broad Channel Borough: Rockaway Park Branch - Rush Hour Service Only Peak Direction Only  | A train
+167 Street Borough: BRONX  | 4, B, D trains
+Pelham Bay Park Borough: BRONX  | 6, 6 express trains
+63 Drive-Rego Park Borough: QUEENS  | E, R trains
+207 Street Borough: MANHATTAN  | 1 train
+Archer Avenue-JFK Airport Borough: QUEENS  | E train
+Crescent Street Borough: BROOKLYN  | J, Z trains
+225 Street Borough: BRONX  | 2 train
+Kew Gardens-Union Turnpike Borough: QUEENS  | E, F trains
+Forest Hills-71 Avenue Borough: QUEENS  | E, F, M, R trains
+77 Street Borough: BROOKLYN  | R train
+3 Avenue Borough: MANHATTAN  | L train
+Grand Central-42 Street Borough: MANHATTAN  | 4, 5, 6, 6 express, 7, 7 express trains
+Kingston Avenue Borough: BROOKLYN  | 3, 4 trains
+Hewes Street Borough: BROOKLYN  | J train
+Rockaway Avenue Borough: BROOKLYN  | 3, 4, C trains
+Whitehall Street South Ferry Borough: MANHATTAN  | N, R trains
+Borough Hall-Court Street Borough: BROOKLYN  | 4 train
+125 Street Borough: MANHATTAN  | 1, 2, 3, 4, 5, 6, 6 express, B, C, D trains
+Dyckman Street Borough: MANHATTAN  | 1 train
+Queens Plaza Borough: QUEENS  | E, M, R trains
+138 Street Borough: BRONX  | 4, 5 trains
+25 Avenue Borough: BROOKLYN  | D train
+Smith-9 Streets Borough: BROOKLYN  | F, G trains
+14 Street Borough: MANHATTAN  | 1, 2, 3, C, E, F, M trains
+Bowling Green Borough: BROOKLYN  | 4, 5 trains
+Bay Ridge Avenue Borough: BROOKLYN  | R train
+2 Avenue Borough: MANHATTAN  | F train
+High Street Borough: BROOKLYN  | C train
+42 Street-Bryant Park Borough: MANHATTAN  | D, F, M trains
+Sutphin Boulevard Borough: QUEENS  | E, F trains
+Sterling Street Borough: BROOKLYN  | 2, 5 trains
+Times Square-42 Street Borough: MANHATTAN  | 1, 2, 3, 7, 7 express, N, Q, R trains
+Bedford Avenue Borough: BROOKLYN  | L train
+Bleecker Street Borough: MANHATTAN  | 6 Express train
+Euclid Avenue Borough: BROOKLYN  | C train
+Court Street- Borough Hall Borough: BROOKLYN  | R train
+Fulton Street Borough: MANHATTAN  | 2, 3, C, J, Z trains
+Wilson Avenue Borough: BROOKLYN  | L train
+WTC Cortlandt Borough: MANHATTAN  | 1 train
+Mets-Willets Point Borough: QUEENS  | 7, 7 express trains
+Graham Avenue Borough: BROOKLYN  | L train
+Central Park North (110 Street) Borough: MANHATTAN  | 2, 3 trains
+62 Street Borough: BROOKLYN  | D train
+Newkirk Avenue Borough: BROOKLYN  | 2, 5 trains
+Woodside-61Street Borough: QUEENS  | 7 Express train
+168 Street- Washington Heights Borough: MANHATTAN  | 1 train
+Marble Hill-225 Street Borough: MANHATTAN  | 1 train
+Lafayette Avenue Borough: BROOKLYN  | C train
+Atlantic Avenue Borough: BROOKLYN  | 2, 3, 4, 5, B, L trains
+Nassau Avenue Borough: BROOKLYN  | G train
+Astor Place Borough: MANHATTAN  | 4, 6, 6 express trains
+Hunters Point Avenue Borough: QUEENS  | 7, 7 express trains
+Lorimer Street Borough: BROOKLYN  | J, L trains
+Houston Street Borough: MANHATTAN  | 1, 2 trains
+Rector Street Borough: MANHATTAN  | 1, N, R, W trains
+Broadway Borough: QUEENS  | N, W trains
+110 Street Borough: MANHATTAN  | 4, 6, 6 express trains
+149 Street-Grand Concourse Borough: BRONX  | 2, 4, 5 trains
+Park Place Borough: MANHATTAN  | 2, 3 trains
+3 Avenue-138 Street Borough: BRONX  | 6, 6 express trains
+Sutter Avenue Borough: BROOKLYN  | L train
+Essex Street Borough: MANHATTAN  | J, M, Z trains
+36 Street Borough: QUEENS  | E, M, R trains
+174-175 Streets Borough: BRONX  | B, D trains
+Ditmas Avenue Borough: BROOKLYN  | F train
+Shuttle Service All Times Between Broad Channel and Rockaway Park - Beach 116 St Borough: Rockaway Park Branch - Rush Hour Service Only Peak Direction Only  | A train
+103 Street Borough: MANHATTAN  | 1, 4, 6, 6 express, B, C trains
+182-183 Streets Borough: BRONX  | B, D trains
+Surf Avenue Borough: BROOKLYN  | F train
+5 Avenue - 53 Street Borough: MANHATTAN  | E train
+36 Avenue Borough: QUEENS  | N, W trains
+55 Street Borough: BROOKLYN  | D train
+4 Avenue Borough: BROOKLYN  | D, F, G trains
+33 Street Borough: QUEENS  | 7 train
+Broadway-Lafayette St - Bleecker St Borough: MANHATTAN  | 4, 6, B, D, F, M trains
+Myrtle Avenue Borough: BROOKLYN  | J, Z trains
+Jay Street-MetroTech Borough: BROOKLYN  | C, F trains
+1 Avenue Borough: MANHATTAN  | L train
+169 Street Borough: QUEENS  | F train
+QUEENS Borough: BROOKLYN  | M train
+Prospect Avenue Borough: BRONX  | 2, 5 trains
+Junius Street Borough: BROOKLYN  | 3, 4 trains
+South Ferry Borough: MANHATTAN  | 1 train
+Woodlawn Borough: BRONX  | 4 train
+Roosevelt Island Borough: MANHATTAN  | F train
+155 Street Borough: MANHATTAN  | B, C, D trains
+Flushing Avenue Borough: BROOKLYN  | G, J trains
+Zerega Avenue Borough: BRONX  | 6, 6 express trains
+Flushing-Main Street Borough: QUEENS  | 7, 7 express trains
+121 Street Borough: QUEENS  | J, Z trains
+Clinton-Washington Avenues Borough: BROOKLYN  | C, G trains
+Steinway Street Borough: QUEENS  | E, M, R trains
+40 Street Borough: QUEENS  | 7 train
+28 Street Borough: MANHATTAN  | 1, 2, 4, 6, 6 express, N, Q, R, W trains
+Broadway Junction (East New York) Borough: BROOKLYN  | C, J, L, Z trains
+Coney Island - Stillwell Avenue Borough: BROOKLYN  | D, F, Q trains
+East 105 Street Borough: BROOKLYN  | L train
+Canarsie-Rockaway Parkway Borough: BROOKLYN  | L train
+Queensboro Plaza Borough: QUEENS  | 7, 7 express, N, W trains
+Simpson Street Borough: BRONX  | 2, 5 trains
+Eastern Parkway-Brooklyn Museum Borough: BROOKLYN  | 2, 3, 4 trains
+174 Street Borough: BRONX  | 2, 5 trains
+Elmhurst Avenue Borough: QUEENS  | E, M, R trains
+Parsons-Archer Borough: QUEENS  | E train
+Kosciuszko Street Borough: BROOKLYN  | J train
+Washington Heights- 168 St Borough: MANHATTAN  | C train
+Winthrop Street Borough: BROOKLYN  | 2, 5 trains
+Flatbush Avenue-Brooklyn College Borough: BROOKLYN  | 2, 5 trains
+Entry-Exit Available Borough: BRONX  | 1 train
+57 Street Borough: MANHATTAN  | F, N, Q, R, W trains
+East 180 Street Borough: BRONX  | 2, 5 trains
+Fort Hamilton Parkway Borough: BROOKLYN  | D, F, G trains
+75 Street-Elderts Lane Borough: QUEENS  | J train
+West 8 Street-New York Aquarium Borough: BROOKLYN  | F, Q trains
+Franklin Avenue Borough: BROOKLYN  | 2, 3, 4, 5, C trains
+Nostrand Avenue Borough: BROOKLYN  | 3, 4, C trains
+Ocean Parkway Borough: BROOKLYN  | Q train
+47-50 Street- Rockefeller Center Borough: MANHATTAN  | B train
+Rockaway Park- Beach 116 Street Borough: QUEENS  | S train
+Lexington Avenue Borough: MANHATTAN  | E, M, W trains
+233 Street Borough: BRONX  | 2 train
+Bedford Park Boulevard-Lehman College Borough: BRONX  | 4 train
+Canal Street Borough: MANHATTAN  | 1, 2, 4, 6, 6 express, C, E, J, N, Q, R, W, Z trains
